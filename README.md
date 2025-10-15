@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me  
-Greetings! I'm a passionate **Frontend Developer** and programming enthusiast, completed my **Bachelor’s degree in 2022** from **Bishnupur Ramananda College, Bankura University** with a **CGPA of 9.19** 🎓.  
+Greetings! I'm a passionate **Frontend Developer** and programming enthusiast, completed my **Bachelor’s degree** from **Bishnupur Ramananda College, Bankura University** with a **CGPA of 9.19** 🎓.  
 
 With a strong foundation in **C, Python, and JavaScript**, I specialize in building **modern, scalable, and responsive web applications** using:  
 **React.js | Next.js | Redux | TypeScript | Node.js | Material UI | Tailwind CSS**  
