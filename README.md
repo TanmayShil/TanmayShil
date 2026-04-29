@@ -43,6 +43,12 @@ With a strong foundation in **C, Python, and JavaScript**, I specialize in build
 
 ---
 
+| **Trophy** | **Details** |
+|-------------|-------------|
+| **🎉** | [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TanmayShil)](https://github.com/ryo-ma/github-profile-trophy) |
+
+---
+
 ### 🛠️ Tech Stack & Tools  
 
 <p align="center">
