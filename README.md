@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Developer** with **2+ years of experience** building modern, scalable, and responsive web applications. I hold a **Bachelor's degree** from **Bishnupur Ramananda College, Bankura University** with a **CGPA of 9.19** 🎓.
+I'm a **Full Stack Developer** with **3.5+ years of experience** building modern, scalable, and responsive web applications. I hold a **Bachelor's degree** from **Bishnupur Ramananda College, Bankura University** with a **CGPA of 9.19** 🎓.
 
 I turn ideas into polished, production-ready products, from **CRM systems with lead management and Google integrations** to **admin dashboards and personalized news platforms**.
 
@@ -58,7 +58,7 @@ const tanmay = {
 📍 Kolkata, West Bengal
 
 - Build modern, responsive web applications with **React.js, Next.js, Redux, Node.js, TypeScript, Material UI, and Tailwind CSS**
-- Mentor teammates in **JavaScript, TypeScript, and React.js with Next.js**, covering performance optimization and real-world implementation
+- Mentor teammates in **JavaScript, TypeScript, and React.js with Next.js, Node.js, Express.js, MonogDB, SQL**, covering performance optimization and real-world implementation
 
 </details>
 
